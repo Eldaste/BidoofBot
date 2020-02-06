@@ -2,6 +2,7 @@
   "name": "bidoofbot",
   "version": "1.0.0",
   "description": "A bot to test other bots",
+  "main": "bot2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
