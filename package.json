@@ -1,0 +1,21 @@
+{
+  "name": "bidoofbot",
+  "version": "1.0.0",
+  "description": "A bot to test other bots",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eldaste/BidoofBot.git"
+  },
+  "author": "github.com/Eldaste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eldaste/BidoofBot/issues"
+  },
+  "homepage": "https://github.com/Eldaste/BidoofBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
