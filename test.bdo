@@ -1,0 +1,6 @@
+set 668360850750308358
+setdm 668303408544874551
+say Hi! Type Hello
+expect chn Hello
+fail say That's not it.
+succeed say Yup yup!
